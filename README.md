@@ -36,6 +36,8 @@ Write a python program which can:
 1. Read the CSV files
 2. Check if the the gas reading time is compliant. Print "Compliant" if it is, print "Not Compliant" if it is not.
 
+You may want to use the template in the `main.py`.
+
 > The timestamps in the csv files are in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.
 
 ## Bonus 
