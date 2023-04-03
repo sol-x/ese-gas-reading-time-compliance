@@ -6,6 +6,7 @@ There are several dangers and hazards associated with enclosed spaces, like:
 - Lack of oxygen
 - toxic vapours
 - Leakage of hazardous materials
+
 so it is very important to measure the level of some gases, like Oxygen, Carbon monoxide and Hydrogen sulfide from time to time. If any of the gases has the level mismatched with its required threshold, the PTW has to be terminated immediately and no one is allowed to enter the space.
 
 There are two types of gas readings:
@@ -36,9 +37,9 @@ Write a python program which can:
 1. Read the CSV files
 2. Check if the the gas reading time is compliant. Print "Compliant" if it is, print "Not Compliant" if it is not.
 
-You may want to use the template in the `main.py`.
+> You may want to use the python template in the `main.py`. 
 
-> The timestamps in the csv files are in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.
+> The sample csv files are provided. The timestamps in the csv files are in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.
 
 ## Bonus 
 
