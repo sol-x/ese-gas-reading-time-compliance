@@ -41,6 +41,12 @@ Write a python program which can:
 
 > The sample csv files are provided. The timestamps in the csv files are in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.
 
+Please do NOT fork this repo on github or open a pull request. Submit your solution via email in an archive, which can be created with the following git command:
+
+```sh
+git archive HEAD . -o solution.tar
+```
+
 ## Bonus 
 
 Write unit test with any testing framework you prefer.
